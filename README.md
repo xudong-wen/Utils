@@ -1,2 +1,2 @@
-#someting to uesfull
-##testing
+#Some useful scripts
+
